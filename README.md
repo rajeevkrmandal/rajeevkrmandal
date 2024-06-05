@@ -1,17 +1,15 @@
 # Hey! Nice to see you.
-I'm Rajeev 😀
+I'm Rajeev 😀✨
 
-I'm a Data Scientist at iNeuron Intelligence
+I am a fresher with technical experience and interest in:
+- 🤖 Deep Learning
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- 🗣️ Natural Language Processing
+- 🚀 MLOps
+- 🎨 Generative AI
 
-I have technical experience and interest in:
-- Deep Learning
-- Machine Learning
-- Computer vision
-- Natural Language Processing
-- MLOps
-- Generative AI
-
-👉[My Online Portfolio](your-portfolio-link)
+👉[My Online Portfolio](https://leetcode.com/u/rajeev_45/)
 
 ## Languages and Tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
@@ -34,14 +32,11 @@ I have technical experience and interest in:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## My Hobbies and Interests:
-- Playing chess
-- Coding
-- Cooking
-- Traveling
+- ♟️ Playing chess
+- 💻 Coding
+- 🍳 Cooking
+- 🌍 Traveling
 
 ## You can also find me on:
-- [![LinkedIn](https://img.shields.io/badge/entbappy-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/entbappy)
-- [![Twitter](https://img.shields.io/badge/entbappy-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/entbappy)
-- [![Instagram](https://img.shields.io/badge/entbappy-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/entbappy)
-- [![YouTube](https://img.shields.io/badge/entbappy-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/entbappy)
-- [![LeetCode](https://img.shields.io/badge/entbappy-%2300BFFF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/entbappy)
+- [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
+- [![LeetCode](https://img.shields.io/badge/rajeev-%2300BFFF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajeev_45/)
