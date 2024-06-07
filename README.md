@@ -42,29 +42,16 @@ I am a fresher with technical experience and interest in:
 - [![LeetCode](https://img.shields.io/badge/rajeev-%2300BFFF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajeev_45/)
 # Rajeev Kr Mandal's GitHub Profile
 
-## My GitHub Stats
-
 Here are some stats about my GitHub activity:
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=default&bg_color=ffffff&hide_border=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=default&bg_color=ffffff&hide_border=true" alt="Top Languages" />
   </div>
   <div>
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrmandal&theme=default&hide_border=true&background=ffffff&date_format=j%20M%5B%20Y%5D)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrmandal&theme=default&hide_border=true&background=ffffff&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </div>
 </div>
 
-## Stars
-
-![Stars](https://img.shields.io/github/stars/rajeevkrmandal/Cpu_Scheduling_Algorithms?style=social)
-
-## Repositories
-
-Here are some of my repositories:
-
-- [Desktop Application Using Python](https://github.com/rajeevkrmandal/Desktop_Application_using_python)
-- [CPU Scheduling Algorithms](https://github.com/rajeevkrmandal/Cpu_Scheduling_Algorithms)
-- [Repository 3](https://github.com/rajeevkrmandal/repo3)
 
