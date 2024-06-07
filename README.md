@@ -52,7 +52,7 @@ I am a fresher with technical experience and interest in:
   </div>
 </div>
 
-![Rajeev Kr Mandal's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajeevkrmandal&theme=github)
+![Rajeev Kr Mandal's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevkrmandal&theme=react-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeevkrmandal&style=flat-square&color=blue)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
