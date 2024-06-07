@@ -36,6 +36,20 @@ I am a fresher with technical experience and interest in:
 - 💻 Coding
 - 🍳 Cooking
 - 🌍 Traveling
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=default&bg_color=ffffff&hide_border=true" alt="Top Languages" />
+  </div>
+  <div style="text-align: center;">
+    <h1>I'm Rajeev</h1>
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrmandal&theme=default&hide_border=true&background=ffffff&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </div>
+</div>
+
 ![Rajeev Kr Mandal's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeevkrmandal&style=flat-square&color=blue)
@@ -48,18 +62,3 @@ I am a fresher with technical experience and interest in:
 ## You can also find me on:
 - [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
 - [![LeetCode](https://img.shields.io/badge/rajeev-%2300BFFF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajeev_45/)
-# Rajeev Kr Mandal's GitHub Profile
-
-Here are some stats about my GitHub activity:
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=default&bg_color=ffffff&hide_border=true" alt="Top Languages" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrmandal&theme=default&hide_border=true&background=ffffff&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </div>
-</div>
-
-
