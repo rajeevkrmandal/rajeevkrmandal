@@ -44,6 +44,8 @@ I am a fresher with technical experience and interest in:
 
 Here are some stats about my GitHub activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrmandal&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
