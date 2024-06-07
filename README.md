@@ -56,21 +56,28 @@ I am a fresher with technical experience and interest in:
 
 ![Rajeev Kr Mandal's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevkrmandal&theme=react-dark)
 
-## Skills and Achievements
-🛠️ **Skills:**
-- **Programming Languages:** Python, C++
-- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-Learn
-- **Tools:** Docker, Git, Jupyter Notebooks
-
-🏆 **Achievements:**
-- Solved 240 coding questions on CodingNinjas.
-- Solved 70 coding questions on Leetcode.
-- Solved 108 coding questions on GeeksforGeeks.
-- GATE Qualified: 2022, 2024
-- Certificate in C++, Python Programming, and ChatGPT at Coding Ninjas.
-- Ranked specialist in Coding Ninjas Platform.
-- Received Oasis Scholarship for four consecutive years (2016-2020).
-- Qualified NET December 2023 exam for the position of Assistant Professor.
+## <span style="color: #4CAF50; font-weight: bold;">Skills and Achievements</span>
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  🛠️ **Skills:**
+  <ul style="list-style-type: none; padding: 0;">
+    <li>**Programming Languages:** Python, C++</li>
+    <li>**Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-Learn</li>
+    <li>**Tools:** Docker, Git, Jupyter Notebooks</li>
+  </ul>
+</div>
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-top: 20px;">
+  🏆 **Achievements:**
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🔹 Solved 240 coding questions on CodingNinjas.</li>
+    <li>🔹 Solved 70 coding questions on Leetcode.</li>
+    <li>🔹 Solved 108 coding questions on GeeksforGeeks.</li>
+    <li>🔹 GATE Qualified: 2022, 2024</li>
+    <li>🔹 Certificate in C++, Python Programming, and ChatGPT at Coding Ninjas.</li>
+    <li>🔹 Ranked specialist in Coding Ninjas Platform.</li>
+    <li>🔹 Received Oasis Scholarship for four consecutive years (2016-2020).</li>
+    <li>🔹 Qualified NET December 2023 exam for the position of Assistant Professor.</li>
+  </ul>
+</div>
 
 ## You can also find me on:
 - [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
