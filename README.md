@@ -14,7 +14,7 @@ I am a fresher with technical experience and interest in:
 - 🚀 MLOps
 - 🎨 Generative AI
 
-👉[My Online Portfolio](https://leetcode.com/u/rajeev_45/)
+👉 [My Online Portfolio](https://leetcode.com/u/rajeev_45/)
 
 ## Languages and Tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
@@ -42,9 +42,11 @@ I am a fresher with technical experience and interest in:
 - 🍳 Cooking
 - 🌍 Traveling
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=default&bg_color=ffffff&hide_border=true" alt="Top Languages" />
   </div>
   <div>
@@ -54,12 +56,21 @@ I am a fresher with technical experience and interest in:
 
 ![Rajeev Kr Mandal's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevkrmandal&theme=react-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajeevkrmandal&style=flat-square&color=blue)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
+## Skills and Achievements
+🛠️ **Skills:**
+- **Programming Languages:** Python, C++
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-Learn
+- **Tools:** Docker, Git, Jupyter Notebooks
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rajeevkrmandal.rajeevkrmandal)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevkrmandal&theme=default)
+🏆 **Achievements:**
+- Solved 240 coding questions on CodingNinjas.
+- Solved 70 coding questions on Leetcode.
+- Solved 108 coding questions on GeeksforGeeks.
+- GATE Qualified: 2022, 2024
+- Certificate in C++, Python Programming, and ChatGPT at Coding Ninjas.
+- Ranked specialist in Coding Ninjas Platform.
+- Received Oasis Scholarship for four consecutive years (2016-2020).
+- Qualified NET December 2023 exam for the position of Assistant Professor.
 
 ## You can also find me on:
 - [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
