@@ -40,3 +40,6 @@ I am a fresher with technical experience and interest in:
 ## You can also find me on:
 - [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
 - [![LeetCode](https://img.shields.io/badge/rajeev-%2300BFFF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajeev_45/)
+##
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&langs_count=10&hide=shell,cython&include_repo=repo1,repo2)
+
