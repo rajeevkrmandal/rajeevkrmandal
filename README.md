@@ -36,6 +36,14 @@ I am a fresher with technical experience and interest in:
 - 💻 Coding
 - 🍳 Cooking
 - 🌍 Traveling
+![Rajeev Kr Mandal's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajeevkrmandal&style=flat-square&color=blue)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rajeevkrmandal.rajeevkrmandal)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevkrmandal&theme=default)
 
 ## You can also find me on:
 - [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
