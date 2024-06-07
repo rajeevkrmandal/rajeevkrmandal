@@ -1,5 +1,10 @@
 # Hey! Nice to see you.
-I'm Rajeev 😀✨
+
+<div align="center">
+  <strong>
+    I'm Rajeev 😀✨
+  </strong>
+</div>
 
 I am a fresher with technical experience and interest in:
 - 🤖 Deep Learning
@@ -42,15 +47,12 @@ I am a fresher with technical experience and interest in:
     <img src="https://github-readme-stats.vercel.app/api?username=rajeevkrmandal&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrmandal&layout=compact&langs_count=10&hide=shell,cython&theme=default&bg_color=ffffff&hide_border=true" alt="Top Languages" />
   </div>
-  <div style="text-align: center;">
-    <h1>I'm Rajeev</h1>
-  </div>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrmandal&theme=default&hide_border=true&background=ffffff&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </div>
 </div>
 
-![Rajeev Kr Mandal's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
+![Rajeev Kr Mandal's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeevkrmandal&style=flat-square&color=blue)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajeevkrmandal&theme=default&bg_color=ffffff&hide_border=true)
