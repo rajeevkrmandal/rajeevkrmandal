@@ -60,9 +60,9 @@ I am a fresher with technical experience and interest in:
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   🛠️ **Skills:**
   <ul style="list-style-type: none; padding: 0;">
-    <li>**Programming Languages:** Python, C++</li>
-    <li>**Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-Learn</li>
-    <li>**Tools:** Docker, Git, Jupyter Notebooks</li>
+    <li><strong>Programming Languages:</strong> Python, C++</li>
+    <li><strong>Frameworks & Libraries:</strong> TensorFlow, PyTorch, OpenCV, Scikit-Learn</li>
+    <li><strong>Tools:</strong> Docker, Git, Jupyter Notebooks</li>
   </ul>
 </div>
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-top: 20px;">
@@ -78,6 +78,33 @@ I am a fresher with technical experience and interest in:
     <li>🔹 Qualified NET December 2023 exam for the position of Assistant Professor.</li>
   </ul>
 </div>
+
+## Experience
+### System Administrator
+**AI Lab, University of Hyderabad**<br>
+January 2024 – Present | Hyderabad, India
+- **Tech Used:** NIS, NFS, Local Networking, Iptables, Linux System Management.
+- Responsible for managing and maintaining the systems and infrastructure in the AI Lab.
+- Spearheading the implementation of innovative solutions to enhance the AI Lab’s capabilities, fostering a dynamic environment for experimentation and advancement.
+
+### Teaching Assistant
+**University of Hyderabad**<br>
+January 2024 – Present | Hyderabad, India
+- **Tech Used:** Wireshark.
+- Working as the TA for the Computer Network Theory and Lab courses for the Semester January 2024 - June 2024.
+
+### Subject Matter Expert
+**Chegg Inc.**<br>
+September 2019 – December 2023 | Hyderabad, India
+- Provided expert-level academic assistance to students on Computer Science through Chegg’s online learning platform.
+- Facilitated comprehensive understanding of complex topics and encouraged critical thinking skills essential for academic success.
+
+## Technical Skills
+- **Programming Languages:** C/C++, Python, JavaScript
+- **Frameworks:** React JS, Node JS, Express JS, Redux, APIs
+- **Databases:** SQL, MongoDB, DBMS, MySQL, OOPs
+- **Other Skills:** Data Structures, Algorithms, Problem Solving
+- **Tools:** Git, GitHub, Postman, Netlify, VS Code, Bootstrap
 
 ## You can also find me on:
 - [![LinkedIn](https://img.shields.io/badge/rajeev-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-kr-mandal-705874209/)
